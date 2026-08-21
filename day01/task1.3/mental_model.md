@@ -40,4 +40,4 @@ Questions I Would Ask Another Trainee
 
 2 Why can an LLM give a confident and detailed answer even when the information is completely incorrect? Explain this using the difference between language generation and factual verification.
 
-3 Suppose a normal LLM and a reasoning model are given a difficult multi-step programming problem. What makes the reasoning model potentially better at solving it, and does "reasoning" guarantee that its final answer will be correct?
+3 Suppose a normal LLM and a reasoning model are given a difficult multi-step programming problem. What makes the reasoning model potentially better at solving it, and does "reasoning" guarantee that its final answer will be correct??
