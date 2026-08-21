@@ -7,8 +7,8 @@ samples = [
     "मेरा डेबिट कार्ड खो गया है",                      # Hindi
     "Mera card kho gaya hai, please block karo",       # Hinglish
     "Account number 3021 4456 8890 1123",
-    "Please help me reset my net banking password",   # my own: English
-    "मुझे अपना नेट बैंकिंग पासवर्ड रीसेट करना है",        # my own: Hindi/mother tongue
+    "Please help me reset my net banking password",   #English
+    "मुझे अपना नेट बैंकिंग पासवर्ड रीसेट करना है",        #  Hindi
 ]
 for s in samples:
     tokens = enc.encode(s)
