@@ -55,7 +55,7 @@ FALLBACK = {
 def classify(utterance: str) -> dict:
     for attempt in range(2):
         resp = client.chat.completions.create(
-            model="liquid/lfm-2.5-2.6b:free",
+            model=os.getenv("MODEL"),
             response_format={"type": "json_object"},
             messages=[
                 {"role": "system", "content": SYSTEM},

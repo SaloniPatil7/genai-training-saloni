@@ -47,7 +47,7 @@ response_a = client.chat.completions.create(
 
 # Prompt B response
 response_b = client.chat.completions.create(
-    model="poolside/laguna-xs-2.1:free",
+    model=os.getenv("MODEL"),
     messages=[
         {"role": "user", "content": prompt_b}
     ]
