@@ -1,0 +1,10 @@
+NovaBank requires customers to complete KYC before activating banking services.
+Customers must provide one valid identity document.
+Customers must provide one valid address document when required.
+A fictional PAN card is accepted as an identity document for training.
+A fictional passport is also accepted as an identity document for training.
+Customers may provide a utility bill as an address document.
+The registered mobile number must be verified during KYC.
+KYC information must match the customer's submitted account details.
+NovaBank may request additional documents when verification fails.
+All KYC requirements in this document are synthetic training data.

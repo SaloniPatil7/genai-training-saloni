@@ -1,0 +1,10 @@
+NovaBank offers a standard savings account for individual customers.
+The minimum opening deposit for the account is ₹1,000.
+Customers must maintain a monthly average balance of ₹2,000.
+The savings account earns interest at a synthetic rate of 3 percent annually.
+Interest is calculated monthly and credited quarterly.
+Customers receive a free digital account statement every month.
+Mobile banking access is available after account activation.
+Customers can update their registered mobile number through a branch.
+The account can be closed by submitting a closure request.
+All figures in this document are fictional NovaBank training data.

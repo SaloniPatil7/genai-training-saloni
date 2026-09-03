@@ -1,0 +1,9 @@
+NovaBank customers can activate net banking through the official mobile app.
+The customer must select the Net Banking option.
+The customer must enter the registered mobile number.
+An OTP is sent to the registered mobile number.
+The customer must verify the OTP to continue activation.
+The customer must create a net banking login password.
+The password must contain at least eight characters.
+Activation is completed after the password is successfully created.
+Customers should never share their OTP or password with another person.

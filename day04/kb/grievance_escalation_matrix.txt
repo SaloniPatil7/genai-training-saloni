@@ -1,0 +1,10 @@
+NovaBank customers should first register a complaint with customer support.
+Level 1 complaints are handled by the customer support team.
+If unresolved, the complaint can be escalated to Level 2.
+Level 2 complaints are reviewed by the service resolution team.
+If unresolved after Level 2, the customer can request Level 3 review.
+Level 3 complaints are reviewed by the grievance officer.
+Customers should keep the complaint reference number during escalation.
+Each escalation should include the previous complaint details.
+The escalation process applies to supported banking service complaints.
+All escalation rules in this document are fictional training data.

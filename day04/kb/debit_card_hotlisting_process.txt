@@ -1,0 +1,10 @@
+NovaBank customers can hotlist a lost debit card through the mobile app.
+The customer must open the Cards section.
+The customer must select the affected debit card.
+The customer must choose the Hotlist Card option.
+The customer must select a reason for hotlisting.
+The customer must confirm the request using the registered mobile number.
+A hotlisted card cannot be used for new transactions.
+A replacement card can be requested after hotlisting.
+The replacement card is delivered within five working days.
+The hotlisting reference number is shown after successful submission.

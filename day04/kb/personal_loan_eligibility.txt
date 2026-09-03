@@ -1,0 +1,10 @@
+NovaBank personal loan applicants must be at least 21 years old.
+The maximum applicant age at loan maturity is 60 years.
+Applicants must have a minimum monthly income of ₹30,000.
+Applicants must have at least 12 months of employment history.
+Applicants must provide the required identity and income documents.
+Existing repayment obligations may be considered during assessment.
+Loan approval is subject to NovaBank's internal eligibility assessment.
+Meeting the listed criteria does not guarantee loan approval.
+The final approved amount depends on the applicant assessment.
+All eligibility criteria are fictional NovaBank training data.

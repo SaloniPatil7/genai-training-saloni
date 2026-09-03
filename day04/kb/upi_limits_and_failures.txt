@@ -1,0 +1,9 @@
+NovaBank customers have a daily UPI transaction limit of ₹50,000.
+The maximum amount for one UPI transaction is ₹25,000.
+Customers can make up to 20 UPI transactions per day.
+UPI limits are reset at midnight based on NovaBank system time.
+A failed UPI transaction may remain pending for a short period.
+A failed transaction with a debit may be automatically reversed.
+Customers should wait up to 24 hours for an automatic reversal.
+If the amount is not reversed after 24 hours, support can investigate.
+Customers should keep the transaction reference number for support.

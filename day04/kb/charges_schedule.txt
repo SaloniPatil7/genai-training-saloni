@@ -1,0 +1,10 @@
+NovaBank charges ₹150 for a duplicate physical account statement.
+A digital account statement is available without a statement fee.
+The debit card replacement fee is ₹250.
+The debit card annual maintenance fee is ₹200.
+A failed ATM cash withdrawal does not have a separate NovaBank fee.
+A branch address update request has no service charge.
+The savings account closure fee is ₹100 when closed within 90 days.
+Requests outside these listed services may have different charges.
+Customers should check the applicable NovaBank service category.
+All charges in this document are fictional training data.

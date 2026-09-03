@@ -1,0 +1,10 @@
+NovaBank offers three fictional credit card variants.
+The Nova Classic card is designed for basic everyday spending.
+The Nova Rewards card provides reward points on eligible purchases.
+The Nova Travel card provides synthetic travel-related benefits.
+The Nova Classic card has an annual fee of ₹499.
+The Nova Rewards card has an annual fee of ₹999.
+The Nova Travel card has an annual fee of ₹1,499.
+Annual fees are waived when the customer reaches the required yearly spend.
+The yearly spend threshold is ₹50,000 for Classic and ₹1,00,000 for Rewards.
+All card information in this document is fictional NovaBank training data.
