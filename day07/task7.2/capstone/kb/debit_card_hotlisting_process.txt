@@ -1,0 +1,12 @@
+NovaTrust Bank - Debit Card Hotlisting Process
+
+Customers should hotlist a lost or stolen debit card immediately.
+Hotlisting permanently blocks the card from further transactions.
+Customers can request hotlisting through NovaTrust mobile banking.
+Customers can also request hotlisting through net banking.
+The last four digits of the card may be required for identification.
+After successful hotlisting, a reference number is generated.
+A hotlisted card cannot be reactivated.
+Customers who need a replacement card can submit a replacement request.
+Replacement processing is separate from card hotlisting.
+Customers should report suspicious transactions immediately.

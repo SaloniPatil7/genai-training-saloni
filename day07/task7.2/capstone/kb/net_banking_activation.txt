@@ -1,0 +1,12 @@
+NovaTrust Bank - Net Banking Activation
+
+Customers can activate net banking through the NovaTrust banking portal.
+The customer must have an active NovaTrust account.
+Identity verification is required during activation.
+The customer creates a login ID during the activation process.
+A secure authentication method is required to complete activation.
+Customers must create a strong password.
+Login credentials should never be shared with another person.
+Customers can reset their password through the approved recovery process.
+Repeated failed login attempts may temporarily restrict access.
+Customers should contact NovaTrust support if activation fails repeatedly.

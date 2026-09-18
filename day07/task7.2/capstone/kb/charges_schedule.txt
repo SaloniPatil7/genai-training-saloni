@@ -1,0 +1,12 @@
+NovaTrust Bank - Charges Schedule
+
+NovaTrust Bank applies fictional charges for selected banking services.
+The savings account minimum balance requirement is 1000 NovaCredits.
+The Classic credit card annual fee is 500 NovaCredits.
+The Rewards credit card annual fee is 1000 NovaCredits.
+The Travel credit card annual fee is 1500 NovaCredits.
+The minimum fixed deposit amount is 5000 NovaCredits.
+The fictional daily UPI transaction limit is 100000 NovaCredits.
+A single UPI transaction can be up to 50000 NovaCredits.
+Charges may depend on the service used and applicable account terms.
+Customers should refer to the applicable NovaTrust service terms.

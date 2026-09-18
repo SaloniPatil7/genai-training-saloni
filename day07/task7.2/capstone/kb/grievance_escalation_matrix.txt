@@ -1,0 +1,18 @@
+NovaTrust Bank - Grievance Escalation Matrix
+
+Level 1 is the normal customer support channel.
+Customers should first report an issue through the normal support channel.
+The support team should record the customer's complaint reference.
+
+Level 2 is the senior support team.
+Issues that cannot be resolved by normal support should be escalated.
+Repeated unresolved complaints should be reviewed by the senior support team.
+
+Level 3 is urgent escalation.
+Urgent unauthorized transaction concerns should be escalated immediately.
+Transaction disputes should include the relevant transaction reference.
+
+Card-related complaints should include the last four card digits when available.
+Customers should keep their complaint reference for follow-up.
+The escalation team reviews the available complaint information.
+A human support agent may request additional information when required.

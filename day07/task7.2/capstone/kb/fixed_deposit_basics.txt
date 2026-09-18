@@ -1,0 +1,12 @@
+NovaTrust Bank - Fixed Deposit Basics
+
+A fixed deposit allows customers to keep money for a selected period.
+NovaTrust Bank offers fictional fixed deposit periods from 6 to 60 months.
+The minimum fixed deposit amount is 5000 NovaCredits.
+Interest depends on the selected deposit period.
+Interest rates may vary according to the applicable deposit terms.
+Customers can choose maturity instructions when creating the deposit.
+Premature withdrawal may be subject to applicable conditions.
+The maturity amount includes the principal and applicable interest.
+Fixed deposits are separate from regular savings account balances.
+Customers should review the deposit terms before confirming the deposit.

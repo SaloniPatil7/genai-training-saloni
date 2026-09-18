@@ -1,0 +1,12 @@
+NovaTrust Bank - Credit Card Types
+
+NovaTrust Bank offers three fictional credit cards.
+The Nova Classic card is designed for everyday purchases.
+The Nova Rewards card provides reward points on eligible purchases.
+The Nova Travel card is designed for travel-related spending.
+The Classic card has a fictional annual fee of 500 NovaCredits.
+The Rewards card has a fictional annual fee of 1000 NovaCredits.
+The Travel card has a fictional annual fee of 1500 NovaCredits.
+Annual fees are charged once every membership year.
+Eligibility depends on the customer's profile and verification.
+Customers should check the approved card terms before applying.

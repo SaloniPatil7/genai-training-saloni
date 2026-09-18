@@ -1,0 +1,12 @@
+NovaTrust Bank - Savings Account FAQ
+
+NovaTrust Bank offers a basic savings account for personal banking.
+The minimum opening deposit is 500 NovaCredits.
+The minimum balance requirement is 1000 NovaCredits.
+Customers can access their account through mobile banking and net banking.
+Savings accounts support domestic fund transfers.
+Interest is calculated monthly and credited quarterly.
+Customers can request an account statement through net banking.
+A customer can update contact details after identity verification.
+The savings account does not support international cash withdrawals.
+For account problems, customers can contact NovaTrust support.

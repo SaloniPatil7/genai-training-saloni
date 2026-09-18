@@ -1,0 +1,17 @@
+{
+  "ACC1001": {
+    "name": "Asha",
+    "balance": 42500.50,
+    "cards": ["4412"]
+  },
+  "ACC1002": {
+    "name": "Rohan",
+    "balance": 18750.00,
+    "cards": ["8821"]
+  },
+  "ACC1003": {
+    "name": "Meera",
+    "balance": 63000.75,
+    "cards": ["7734"]
+  }
+}

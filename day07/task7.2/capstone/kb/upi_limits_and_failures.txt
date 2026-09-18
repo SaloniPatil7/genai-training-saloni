@@ -1,0 +1,12 @@
+NovaTrust Bank - UPI Limits and Failures
+
+NovaTrust Bank supports UPI transactions through its banking application.
+The fictional daily UPI transaction limit is 100000 NovaCredits.
+A single UPI transaction can be up to 50000 NovaCredits.
+UPI transactions may fail because of network or bank-server issues.
+A transaction can also fail because the account has insufficient funds.
+Customers should check the transaction status after a failed payment.
+If money is deducted, the customer should not immediately repeat the payment.
+The transaction status should be checked before taking another action.
+If a failed transaction remains unresolved, it can be escalated.
+Customers should keep the transaction reference for investigation.

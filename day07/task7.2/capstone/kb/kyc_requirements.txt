@@ -1,0 +1,12 @@
+NovaTrust Bank - KYC Requirements
+
+KYC is required before customers can access certain banking services.
+Customers must provide an approved identity document.
+Customers must also provide required contact information.
+Additional verification may be required for some services.
+KYC information must match the customer's submitted records.
+Customers may be asked to complete verification again when required.
+Incomplete KYC may restrict access to selected services.
+Customers should submit documents only through approved NovaTrust channels.
+KYC updates are subject to identity verification.
+Customers should not share confidential credentials with anyone.

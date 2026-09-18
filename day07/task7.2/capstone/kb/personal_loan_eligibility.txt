@@ -1,0 +1,12 @@
+NovaTrust Bank - Personal Loan Eligibility
+
+NovaTrust Bank offers fictional personal loans to eligible customers.
+Applicants must meet the bank's internal eligibility conditions.
+Applicants must complete identity verification.
+Income information may be required during the application process.
+Employment information may also be requested.
+Loan approval depends on the customer's submitted information.
+Meeting basic eligibility requirements does not guarantee approval.
+The approved loan amount depends on the bank's assessment.
+Repayment terms are provided before the customer accepts the loan.
+Customers should review all loan terms before accepting an offer.
